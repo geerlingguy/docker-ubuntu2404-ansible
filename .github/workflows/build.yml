@@ -53,8 +53,6 @@ jobs:
         with:
           context: ./
           file: Dockerfile
-          # arm64 build curently hangs on ansible installation as of 2024-04.
-          platforms: linux/amd64
-          # platforms: linux/amd64,linux/arm64
+          platforms: linux/amd64,linux/arm64
           push: true
           tags: ${{ github.repository }}:latest
