@@ -1,6 +1,6 @@
 # Ubuntu 24.04 LTS (Noble Numbat) Ansible Test Image
 
-[![CI](https://github.com/geerlingguy/docker-ubuntu2404-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/geerlingguy/docker-ubuntu2404-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/geerlingguy/docker-ubuntu2404-ansible)](https://hub.docker.com/r/geerlingguy/docker-ubuntu2404-ansible/)
+[![Build](https://github.com/geerlingguy/docker-ubuntu2404-ansible/actions/workflows/build.yml/badge.svg)](https://github.com/geerlingguy/docker-ubuntu2404-ansible/actions/workflows/build.yml) [![Docker pulls](https://img.shields.io/docker/pulls/geerlingguy/docker-ubuntu2404-ansible)](https://hub.docker.com/r/geerlingguy/docker-ubuntu2404-ansible/)
 
 Ubuntu 24.04 LTS (Noble Numbat) Docker container for Ansible playbook and role testing.
 
